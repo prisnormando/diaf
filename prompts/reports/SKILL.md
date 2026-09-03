@@ -11,7 +11,7 @@ Aplicar exclusivamente os dois checklists internos desta skill a um relatório m
 
 ## Limites obrigatórios de escopo
 
-Usar somente os seguintes referenciais: `references/checklist-envio-relatorio-bolsa.md` e `references/checklist-base.md`. Não utilizar legislação, jurisprudência, normas ISO/ABNT, TED, TR, plano de trabalho externo, pareceres ou outros documentos jurídicos como critérios de análise.
+Usar somente os seguintes referenciais: `reports/checklist-envio-relatorio-bolsa.md` e `reports/checklist-base.md`. Não utilizar legislação, jurisprudência, normas ISO/ABNT, TED, TR, plano de trabalho externo, pareceres ou outros documentos jurídicos como critérios de análise.
 
 Não exigir que o usuário anexe TED, TR ou outro instrumento externo. A Meta e a Etapa a serem consideradas são as que aparecem nos dois primeiros itens do próprio relatório. Verificar sua presença, clareza e coerência interna com as atividades descritas, sem presumir que a ausência de TED ou TR seja uma pendência.
 
